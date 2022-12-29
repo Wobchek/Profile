@@ -3,3 +3,64 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: Roboto, sans-serif;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+}
+
+header {
+    border: 2px solid red;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main_img {
+    width: 943.61px;
+    height: 387px;
+}
+
+img {
+    width: 89.07px;
+    height: 88.41px;
+}
+
+footer img {
+    width: 40.17px;
+    height: 40.06px;
+}
+
+h1 {
+    border: 2px solid green;
+    line-height: 59px;
+}
+
+h2 {
+    line-height: 42px;
+}
+
+div {
+    line-height: 22px;
+}
+
+span {
+    border: 2px solid red;
+    width: 10px;
+}
+
+.main_info {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 415px 0 0;
+}
