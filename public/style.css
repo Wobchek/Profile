@@ -77,16 +77,14 @@ footer img {
 }
 
 .main_info {
-    max-width: 70%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    gap: 10%;
     padding: 40px 0;
 }
 
 .main_info p {
-    padding-bottom: 0px;
+    margin: 0 auto;
+    padding-bottom: 0;
 }
 
 .about_me p:last-child {
