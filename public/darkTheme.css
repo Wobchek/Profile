@@ -1,0 +1,27 @@
+body
+{
+    background: #111;
+    color: #f4f4f4;
+}
+
+a {
+    color: white;
+}
+
+.theme-button
+{
+    background: white;
+    border-radius: 50%;
+}
+
+.header-wrap {
+    border-bottom: 2px solid white;
+}
+
+img {
+    background-color: white;
+}
+
+.theme-button img {
+    background-color: white;
+}
